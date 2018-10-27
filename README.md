@@ -1,5 +1,5 @@
 # DatatonBC
 Equipo CMHashi
- - Hernan Carval
+ - Hernán Carvajal
  - Carlos Pinzón
  - Miguel Romero
